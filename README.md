@@ -1,2 +1,2 @@
 # Assignment-test
-assignment repo
+assignment repo for git commands demonstration
